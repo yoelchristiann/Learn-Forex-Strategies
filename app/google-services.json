@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "676344565249",
+    "firebase_url": "https://learn-forex-strategies-master.firebaseio.com",
+    "project_id": "learn-forex-strategies-master",
+    "storage_bucket": "learn-forex-strategies-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676344565249:android:85e5404d546e6590",
+        "android_client_info": {
+          "package_name": "com.example.learnforexstrategies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676344565249-u6qaodfsstit5fj24unmnjiu46d6mrsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learnforexstrategies",
+            "certificate_hash": "79eb8c1ad6a59330dc400ab99e3e72854f528191"
+          }
+        },
+        {
+          "client_id": "676344565249-b32cb2iolhj6gnj9un87vqqvhser5hdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8q_YmLp6J9G5YXRTIL5Qmx9HgGyy33hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676344565249-b32cb2iolhj6gnj9un87vqqvhser5hdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
